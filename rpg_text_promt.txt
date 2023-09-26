@@ -1,0 +1,54 @@
+World:
+
+Characters:
+-name option- later
+role:
+Wizard
+-items:
+    -staff+ 6 attack
+    -spellbook Turn to frog: Cancel monster unless immune
+    -wand: levitation -2 speed monster
+Dwarf
+-items
+    -Armor
+    -Ring
+    -BattleAxe
+    
+Feagle
+-items
+    -claymore +2attack
+    -hawk +3 speed +1 attack
+    -Whisky -heals feagles from deathblow, but unadvisable to feed to others
+
+Monsters: 
+-currently random encounter or based on direction
+-each have weaknesses and immunities
+- 1 holds the treasure you are after, but your not sure if you really want the prize or are just in it for the journey
+Boggart:
+Encounter text:
+Attacks: Bear, gold disappearing, Books, lawyers
+speed:2
+hp: 3
+immunities: levitation its already hovering
+flee triggers/drop treasure:
+Dead no treasure triggers: fire
+Treasure: Gem of fear- makes people you show it to give you lots of gold to take it away. 
+
+Direwolf Pack:
+Encounter text: While wandering the Frost Forest at dusk, an eerie howl echoes on the frigid air. You hear the pounding of many pawsteps in the snow. You are surrounded by several enormous grey Dire Wolves, their teeth bared in ravenous grins.
+Attacks: howl, circle, Go for throat, repeat go for throat if fails. 
+speed:3
+hp: 6
+immunities: levitation, ring
+flee triggers/drop treasure:
+Dead no treasure triggers: Turn to frog- you don't eat frogs
+Treasure: Lots of fresh meat Looks like your not dinner today
+
+Turn the Wolves into Frogs:
+The lupine threat is vanquished, and the green amphibians hop off to a nearby pond. "Drat," you say. "There goes what could have been tonight's toad stew." You continue your quest, slightly disappointed.
+Burn the Wolves:
+The howling of the Dire Wolves as their fur is singed hurts your ears and your feelings. You obtain the Cooked Wolf Meat
+
+
+
+
