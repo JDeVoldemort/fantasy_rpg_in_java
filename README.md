@@ -1,10 +1,10 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this program to practice Java which is a new language to me. I worked to apply principles I have used in other coding languages to this Java program. 
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
+This program is a basic text based rpg with 1-2 possible encounters with outcomes depending on what options were picked during character design. Currently the choices are limited, but I tried to design the program to be easily built upon. 
 
-{Describe your purpose for writing this software.}
+The purpose of writing this software is to get some practice with the java language and to recall some of the language principles I have used in other coding languages.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -13,14 +13,15 @@
 # Development Environment
 
 {Describe the tools that you used to develop the software}
+The dev environment consisted of VSCode with Oracle's JDK and microsoft's recommended extension pack for java development.
 
 {Describe the programming language that you used and any libraries.}
-
+The Java language was used in the program.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
+- [Youtube Tutorials such as this one](https://www.youtube.com/watch?v=RRubcjpTkks)
 - [Web Site Name](http://url.link.goes.here)
 
 # Future Work
