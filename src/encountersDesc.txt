@@ -1,0 +1,20 @@
+encounterName: Armory
+number: 1
+desc: Lets get you ready for your adventure.
+desc: Pick an item. Not all items will work for you. 
+desc: check the descriptions to see what will work. then type "grab [instert item name minus brackets]"
+desc: When you are done type next to move to the next encounter.
+exit: West 2
+encounterName: Dire Wolf Woods
+number: 2
+desc: Some eldrich woods Surround you.
+desc: A howl shatters the silence and is joined by others.
+desc: Prepare to fight lest you be eaten.
+desc: type look to check for monsters.
+exit: West 3
+encounterName: End of demo
+number:3
+desc: you have finished the demo
+desc: Looks like you survived.
+desc: check back later for more encounters
+desc: Seek your next adventure
